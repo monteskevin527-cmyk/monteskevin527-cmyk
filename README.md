@@ -1,5 +1,5 @@
 ![CommitGachi pet](https://commitgachi.vercel.app/api/pet/render?user=monteskevin527-cmyk&pet=monteskevin527-cmyk-munchy-dog-forest&name=Munchy&type=dog&difficulty=easy&theme=forest&bornAt=2026-04-09T04%3A26%3A56.229Z&timezone=America%2FNew_York)
-<!-- CommitGachi proudly created by @arnavmabrukar  (https://commitgachi.vercel.app) -->## 
+<!-- CommitGachi proudly created by @arnavmabrukar  (https://commitgachi.vercel.app) -->
 
 <!--
 **monteskevin527-cmyk/monteskevin527-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
